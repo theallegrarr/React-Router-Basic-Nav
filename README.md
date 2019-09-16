@@ -5,7 +5,7 @@ Topics:
 * Single Page Applications
 * React Router V4 (react-router-dom)
 * Routing, declarative component based routing
-* Path and Component
+* Path and Component 
 
 ## Project Description
 
